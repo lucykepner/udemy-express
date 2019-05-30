@@ -9,6 +9,7 @@ Visiting "/" should print "Hi there, welcome to my assignment!"
 Visiting "/speak/pig" should print "The pig says 'Oink' "
 Visiting "/speak/cow" should print "The cow says 'Moo' "
 Visiting "/speak/dog" should print "The dog says 'Woof Woof!' "
+plus two more but only use one get request.
 ================================================================
 Visiting "/repeat/hello/3" should print "hello hello hello"
 Visiting "/repeat/hello/5" should print "hello hello hello hello hello"
